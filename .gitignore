@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environment directories
+.venv/
+env/
+venv/
+
+# Docker-related files
+*.tar
+*.log
+docker-compose*
+
+# VS Code settings
+.vscode/
+.vs/
+
+# System files
+.DS_Store
+Thumbs.db
